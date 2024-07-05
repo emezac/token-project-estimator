@@ -1,3 +1,4 @@
 streamlit
 tiktoken
 PyPDF2
+pdfplumber
